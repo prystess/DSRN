@@ -128,8 +128,6 @@ npm run dev
 
 * * *
 
-## Demo视频链接：https://youtu.be/CxeAiW0TaWMs
+# 
 
 ## 加入我们，一起让知识流动，让贡献增值，开启知识共享的新篇章！
-
-
